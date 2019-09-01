@@ -72,3 +72,4 @@ gem 'jquery-rails', '4.3.1'
 gem 'therubyracer'
 
 gem 'bootstrap-sass', '3.3.7'
+gem 'bcrypt',         '3.1.12'
